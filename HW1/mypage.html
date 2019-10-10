@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+    <html>
+      <head>
+        <title>About Me</title>
+      </head>
+      <body>
+        <h1>Bissell, Phil</h1>
+          <p> I enjoy cycle touring and surfing internationally. I have visited the majoirty of US national Parks.
+              My next big trip is in January to the Portugal, the Azores, Andalusia.
+              I am studying CS as a part of my second BS in Electrical Engineering.
+          </p>
+
+        <h2>My Professional Profile</h2>
+
+        <a href="url">https://github.com/philBissell</a>
+
+        <br></br>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/RedCat_8727.jpg/330px-RedCat_8727.jpg" height="250" width="350" value="sleeping_cat">
+
+        <h3>My Favorite Projects</h3>
+
+        <table border="1">
+          <tr>
+            <th>Name of Project</th>
+            <th>Technologies Used</th>
+          </tr>
+          <tr>
+            <td>Linux</td>
+            <td>C</td>
+          </tr>
+          <tr>
+            <td>Git</td>
+            <td>C, Shell, Perl, Tel, Python</td>
+          </tr>
+          <tr>
+            <td>Chrome OS</td>
+            <td>C, C++</td>
+          </tr>
+        </table>
+
+        <h3>Countries Travelled</h3>
+
+        <ul>
+          <li>Canada</li>
+          <li>Mexico</li>
+          <li>Costa Rica</li>
+          <li>France</li>
+          <li>Iceland</li>
+          <li>Laos</li>
+          <li>Indonesia</li>
+        </ul>
+
+        <h3>My Interests</h3>
+
+        <ul>
+          <li>RF Technology</li>
+          <li>Science Fiction</li>
+          <li>Big Data Ecology</li>
+        </ul>
+      </body>
+    </html>
